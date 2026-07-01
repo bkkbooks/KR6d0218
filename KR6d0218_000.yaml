@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0218/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 學天台宗法門大意
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0940.xml
+    old_id: X56n0940
+hash: sha256:925e2f62831e049de9e309593d8b2b829e6a00efaedebd1daebcc46009dc490a

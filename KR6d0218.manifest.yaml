@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6d0218/v1
+canonical_location: https://kanripo.org/bkk/KR6d0218/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 學天台宗法門大意
+  identifiers:
+    alt_id:
+    - X56n0940
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X56/X56n0940.xml
+    old_id: X56n0940
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0218_000.yaml, hash: 'sha256:925e2f62831e049de9e309593d8b2b829e6a00efaedebd1daebcc46009dc490a'}
+  - {seq: 1, filename: KR6d0218_001.yaml, hash: 'sha256:0209611da28de44ea70a50104796970523fcb51da733525e3f33fc7c0bb3d6f5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0218_001.markers.yaml, hash: 'sha256:f188fcee7b2ef261ff901f3ee404f363828ac1da0a4a146dcbb6b3fb0c61aae7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0218_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 922
+  label: 學天台宗法門大意
+  type: juan
+  level: 1
+hash: sha256:383feabab93ff92330fa1566c8dbb0b06e576f6431e550c83b39e1884561c8a7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
