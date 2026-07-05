@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0218_000.yaml, hash: 'sha256:925e2f62831e049de9e309593d8b2b829e6a00efaedebd1daebcc46009dc490a'}
-  - {seq: 1, filename: KR6d0218_001.yaml, hash: 'sha256:0209611da28de44ea70a50104796970523fcb51da733525e3f33fc7c0bb3d6f5'}
+  - {seq: 1, filename: KR6d0218_001.yaml, hash: 'sha256:828074e775990bb1fa36621edeebcb25809f4b7fd87605f900a273a278f6be0b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6d0218_001.markers.yaml, hash: 'sha256:f188fcee7b2ef261ff901f3ee404f363828ac1da0a4a146dcbb6b3fb0c61aae7'}
+  - {seq: 0, role: markers, filename: assets/KR6d0218_000.markers.yaml, hash: 'sha256:4b93375eb6169050f15ded1f0fbe8b111b0fd5e50ea9c0d134bf069417fd01e1'}
+  - {seq: 1, role: markers, filename: assets/KR6d0218_001.markers.yaml, hash: 'sha256:408fe35df5f21aa81a624a49c96cbaaff591d10160067ab1008fe4b426c7c2ad'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 學天台宗法門大意
   type: juan
   level: 1
-hash: sha256:383feabab93ff92330fa1566c8dbb0b06e576f6431e550c83b39e1884561c8a7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d3b2df14ed39c4ce4398dc2a0685f8c5c86bbc1f8d6ac25fb33dc27904536c5b
